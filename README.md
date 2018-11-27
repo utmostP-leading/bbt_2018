@@ -13,3 +13,21 @@ traceability		#项目根目录
   └──reference		#项目参考文档
 ```
 
+
+
+github使用：
+
+> 到organization-team-repository下clone
+
+连招：
+
+```python
+git clone 地址
+---------------
+git add
+git commit -m
+git push origin dev
+------------------
+git pull  
+```
+
